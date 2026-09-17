@@ -1,0 +1,11 @@
+mode: srv
+auth:
+  provider: "jitsi"
+room:
+  id: "https://jitsi.wb.ru/olcrtc-c63olb8v"
+crypto:
+  key: "f1f09a8b1a013618d903dd7ad682776039636119783b6a3a3e2b53539998e3ef"
+net:
+  transport: "datachannel"
+  dns: "8.8.8.8:53"
+debug: false
